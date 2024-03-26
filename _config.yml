@@ -32,6 +32,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
+# THEME here!!!
+theme: jekyll-theme-Cayman
+
+
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -49,7 +49,7 @@ categories: jekyll update
         <div class="column">
             <h2>Column 1</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in malesuada magna, non faucibus augue. Fusce at lacus id dolor molestie malesuada. Nam aliquam turpis porta fermentum volutpat. Cras lobortis diam lorem, id aliquam ante sagittis a. Sed cursus ut velit nec sagittis. Etiam congue eu libero at egestas. Nunc ornare in felis nec placerat.Nullam lacinia rhoncus eleifend. Nam quis purus risus. Mauris eget vulputate nisi, at aliquet ipsum. Nunc id ex quam. Sed finibus arcu a libero fermentum luctus. Sed eu condimentum sapien. Pellentesque sed sem ac erat finibus faucibus id accumsan dui. Cras aliquam mauris non neque luctus aliquet. Nunc congue ex sit amet metus bibendum sodales. Integer sodales eros eget neque luctus, ut rutrum nulla condimentum. Integer volutpat neque eget elementum iaculis. Aliquam vel aliquam quam. Mauris et mauris nec lectus sagittis porttitor et non ipsum. Curabitur tempor mi risus. Nam sagittis purus vel iaculis aliquam. Fusce eget eleifend est.</p>
-            <iframe src="/output.html" width="100%" height="300px"></iframe>
+            <iframe src="/choropleth-map.html" width="100%" height="300px"></iframe>
         </div>
         <div class="column">
             <h2>Column 2</h2>

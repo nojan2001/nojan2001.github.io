@@ -1,62 +1,49 @@
 ---
 layout: post
-title:  "Magazine Test"
+title:  "A deeper look at San Francisco's drug problem"
 date:   2024-03-26 23:50:39 +0100
 categories: jekyll update
 ---
-
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Magazine Style Layout</title>
-    <style>
-        .container {
-            display: flex;
-            justify-content: space-between;
-            margin: 20px auto;
-            max-width: 1200px;
-        }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+.flex-container {
+  display: flex;
+}
 
-        .column {
-            flex: 1;
-            margin-right: 20px;
-        }
-
-        .column:last-child {
-            margin-right: 0;
-        }
-
-        .column figure {
-            margin-bottom: 20px;
-        }
-
-        @media (max-width: 768px) {
-            .container {
-                flex-direction: column;
-            }
-
-            .column {
-                margin-right: 0;
-                margin-bottom: 20px;
-            }
-        }
-    </style>
+.flex-container > div {
+  margin: 2px;
+  padding: 2px;
+}
+</style>
 </head>
 <body>
-    <div class="container">
+    <div class="flex-container">
         <div class="column">
-            <h2>Column 1</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in malesuada magna, non faucibus augue. Fusce at lacus id dolor molestie malesuada. Nam aliquam turpis porta fermentum volutpat. Cras lobortis diam lorem, id aliquam ante sagittis a. Sed cursus ut velit nec sagittis. Etiam congue eu libero at egestas. Nunc ornare in felis nec placerat.Nullam lacinia rhoncus eleifend. Nam quis purus risus. Mauris eget vulputate nisi, at aliquet ipsum. Nunc id ex quam. Sed finibus arcu a libero fermentum luctus. Sed eu condimentum sapien. Pellentesque sed sem ac erat finibus faucibus id accumsan dui. Cras aliquam mauris non neque luctus aliquet. Nunc congue ex sit amet metus bibendum sodales. Integer sodales eros eget neque luctus, ut rutrum nulla condimentum. Integer volutpat neque eget elementum iaculis. Aliquam vel aliquam quam. Mauris et mauris nec lectus sagittis porttitor et non ipsum. Curabitur tempor mi risus. Nam sagittis purus vel iaculis aliquam. Fusce eget eleifend est.</p>
-            <iframe src="/choropleth-map.html" width="100%" height="300px"></iframe>
-        </div>
-        <div class="column">
-            <h2>Column 2</h2>
-            <p>Vestibulum luctus nulla ac massa venenatis, eu tristique nisl porta. Nulla ut risus nisi. Vestibulum quis mauris neque. Vestibulum feugiat laoreet lacus eu semper. Proin fringilla tempus libero, non posuere libero blandit a. Sed gravida lacinia feugiat. Curabitur non imperdiet urna, a dignissim mi. In sem nulla, semper sit amet libero et, vestibulum rhoncus leo. Duis vitae consequat magna. Phasellus vel ultricies nulla. Duis aliquam mollis molestie. Morbi volutpat risus in turpis maximus vulputate. Praesent et maximus massa, a facilisis purus. Vivamus vestibulum arcu in erat accumsan, vitae commodo purus mollis. Vivamus ullamcorper ligula tincidunt neque hendrerit, at eleifend sapien porttitor.Sed rhoncus, libero ac ullamcorper varius, nunc lorem condimentum ante, ut iaculis est lacus at felis. Duis luctus mauris at est efficitur lacinia. Sed rutrum vel nisl ac pulvinar. Phasellus dapibus massa id diam gravida, eget eleifend odio ultrices. Donec blandit libero ut nisi volutpat porttitor. Pellentesque erat nunc, luctus id maximus lacinia, interdum et diam. Praesent dapibus mauris ipsum, vitae bibendum quam tempus vitae. Cras a lectus a odio dapibus iaculis. Phasellus consectetur velit ultricies purus scelerisque, non finibus sem mollis. Suspendisse quis tellus mi.</p>
+            <h2>Introduction</h2>
+            <p>
+                In San Francisco, it is evident from the crime data, that drug related crimes was a consistent problem throughout the early 2000's. This notion does seem to follow the overwhelming trend of drug related problems, that pertains to the whole country. However, what made this particular category of crimes in San Francisco interesting, was the sudden drop around 2009/2010. When conducting a bit of research, this drop appears even more peculiar, as it seems San Francisco is having a growing and evermore critical problem related to drug-use (especially when considering the introduction of Fentonyl in recent years). 
+                Therefore, we set on to investigate what might have caused this sudden drop in drug related crimes, by both investigating the different types of arrests made within this umbrella category, as well as looking at the locations of the different hot-spots through the years, but in particular around 2009 and 2010.
+            </p>
+            <h3>The yearly development of drug-related crimes</h3>
+            <p>
+                As can be seen from the bar-graph, for the first two years (2003 - 2004) the number of crimes laid relatively steady around 10k, from which it began to slowly rise from 2005 until 2009 with an approximate total increase in crimes of 3k. However, in the span of just two years (2010 - 2011) this peak of about 12k suddenly declines to nearly half, which does appear to be quite drastic. Another drastic drop worth noticing is the one in 2017 - 2018, where it also decreases from about 3k to a little less than half, in only one year.
+            </p>
             <iframe src="/intro-bar-chart.html" width="100%" height="300px"></iframe>
+            <h2>Development of drug crimes by location</h2>
+            <p>
+                When looking at the crime frequency by district throughout the years, we see that the changes are not equal for each district.
+                In areas like Ingleside, Bayview and Richmond, the decline since 2009 is much more gradual and varies quite a bit throughout time; its crime frequency even jumps above the 2009 peak in some years. An interesting thing to note here is that the percent difference from 2019 for a lot of these districts start to significantly decrease at year 2015, with decreases of minimum 50% and greater.
+                Another example is the Northern district, which declines a bit from 2009 - 2012, recovers to near peak status in 2013, and finally declines again.
+                Its percent difference finally lands at a decrease of 36%, smaller than the others mentioned.
+                The biggest contributors to the total crime frequency decline, as seen in absolute values, are the districts; Mission, Southern and Tenderloin. Their numbers, in 2009 are; 1484, 2022 and 4795. The next biggest contributor is Nothern at 794.
+                Interestingly, these already begin to decrease significantly, percentage wise, at year 2011. Some variance is again observed, and there also seems to be some kind of larger decrease around year 2015, although less dominant than in the previous districts.
+            </p>
+            <iframe src="/choropleth-map.html" width="100%" height="300px"></iframe>
         </div>
     </div>
 </body>
-</html>
 

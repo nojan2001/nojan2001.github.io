@@ -43,6 +43,11 @@ categories: jekyll update
                 Interestingly, these already begin to decrease significantly, percentage wise, at year 2011. Some variance is again observed, and there also seems to be some kind of larger decrease around year 2015, although less dominant than in the previous districts.
             </p>
             <iframe src="/choropleth-map.html" width="100%" height="300px"></iframe>
+            <h2>Development of drug crimes by location</h2>
+            <p>
+                DEEZ
+            </p>
+            <iframe src="/Bokeh_plot.html" width="100%" height="300px"></iframe>
         </div>
     </div>
 </body>

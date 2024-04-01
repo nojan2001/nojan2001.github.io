@@ -32,22 +32,35 @@ categories: jekyll update
             <p>
                 As can be seen from the bar-graph, for the first two years (2003 - 2004) the number of crimes laid relatively steady around 10k, from which it began to slowly rise from 2005 until 2009 with an approximate total increase in crimes of 3k. However, in the span of just two years (2010 - 2011) this peak of about 12k suddenly declines to nearly half, which does appear to be quite drastic. Another drastic drop worth noticing is the one in 2017 - 2018, where it also decreases from about 3k to a little less than half, in only one year.
             </p>
-            <iframe src="/intro-bar-chart.html" width="100%" height="300px"></iframe>
-            <h2>Development of drug crimes by location</h2>
+            <figure>
+                <iframe src="/intro-bar-chart.html" width="100%" height="400px"></iframe>
+                <figcaption>Figure 1: Yearly development of drug-related crimes, y axis is crimes commited per year. Hover over bars for more detail  </figcaption>
+            </figure>
+            <h2>Development of drug crimes by district</h2>
             <p>
-                When looking at the crime frequency by district throughout the years, we see that the changes are not equal for each district.
-                In areas like Ingleside, Bayview and Richmond, the decline since 2009 is much more gradual and varies quite a bit throughout time; its crime frequency even jumps above the 2009 peak in some years. An interesting thing to note here is that the percent difference from 2019 for a lot of these districts start to significantly decrease at year 2015, with decreases of minimum 50% and greater.
-                Another example is the Northern district, which declines a bit from 2009 - 2012, recovers to near peak status in 2013, and finally declines again.
-                Its percent difference finally lands at a decrease of 36%, smaller than the others mentioned.
+                When looking at the crime frequency by district throughout the years, we see that the changes are not equal for each district. <br>
+                In areas like Ingleside, Bayview and Richmond, the decline since 2009 is much more gradual and varies quite a bit throughout time; its crime frequency even jumps above the 2009 peak in some years. An interesting thing to note here is that the percent difference from 2019 for a lot of these districts start to significantly decrease at year 2015, with decreases of minimum 50% and greater. <br> <br>
+                Another example is the Northern district, which declines a bit from 2009 - 2012, recovers to near peak status in 2013, and finally declines again. 
+                Its percent difference finally lands at a decrease of 36%, smaller than the others mentioned. <br>
                 The biggest contributors to the total crime frequency decline, as seen in absolute values, are the districts; Mission, Southern and Tenderloin. Their numbers, in 2009 are; 1484, 2022 and 4795. The next biggest contributor is Nothern at 794.
-                Interestingly, these already begin to decrease significantly, percentage wise, at year 2011. Some variance is again observed, and there also seems to be some kind of larger decrease around year 2015, although less dominant than in the previous districts.
+                Interestingly, these already begin to decrease significantly, percentage wise, at year 2011. Some variance is again observed, and there also seems to be some kind of larger decrease around year 2015, although less dominant than in the previous districts. <br><br>
+                The years 2009-2011 and around 2015 seem to be worth looking at in further detail.
             </p>
-            <iframe src="/choropleth-map.html" width="100%" height="300px"></iframe>
-            <h2>Development of drug crimes by location</h2>
+            <figure>
+                <iframe src="/choropleth-map.html" width="100%" height="400px"></iframe>
+                <figcaption>Figure 2: Yearly development of drug-related crimes, by district. Hover over areas for detail
+                </figcaption>
+            </figure>
+            <h2>Development of drug crimes by drug</h2>
             <p>
-                DEEZ
+                Figure 3 depicts the yearly development in the drug/narcotics category, but this time, it is categorized by drug type. It can quickly be seen that the significant contributors are Heroin, Meth, Marijuana, Base "crack" Cocaine and Cocaine. Of these, "Crack" cocaine is by the far the biggest in terms of arrests from 2003 to 2010. Right after 2009, a significant drop off can be seen. This, coupled with a smaller fall of Marijuana at the same time, could explain the big drop off seen in figure 1 and 2 at that time period.
+                The only drug which seems to not be affected by 2009 is Meth, which actually trends upwards until about year 2014.<br> <br> 
+                The 5 drugs mentioned beforehand all experience some sort of drop off around 2015, except Heroin, which would explain the other drop off seen in figure 2. Cocaine is especially affected, as it plummets to near 0. 
             </p>
-            <iframe src="/Bokeh_plot.html" width="100%" height="300px"></iframe>
+            <figure>
+                <iframe src="/Bokeh_plot.html" width="100%" height="400px"></iframe>
+                <figcaption>Figure 3: Yearly development of drug-related crimes. y axis for each year depicts the sum of crimes, categorized by the specific drug in the arrest description. Click on the drug labels to add/remove data from plot </figcaption>
+            </figure>
         </div>
     </div>
 </body>

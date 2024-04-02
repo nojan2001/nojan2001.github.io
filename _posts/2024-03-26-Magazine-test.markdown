@@ -4,11 +4,12 @@ title:  "A deeper look at San Francisco's drug problem"
 date:   2024-03-26 23:50:39 +0100
 categories: jekyll update
 ---
+<!DOCTYPE html>
 <html>
 <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        .some-page-wrapper {
-        }
         .row {
         display: flex;
         flex-direction: row;
@@ -24,7 +25,6 @@ categories: jekyll update
     </style>
 </head>
 <body>
-<div class='some-page-wrapper'>
   <div class='row'>
     <div class='column'>
             <h2>Introduction</h2>
@@ -73,7 +73,7 @@ categories: jekyll update
                 At a first glance, the data shows a general downtrend of drug-related crime arrests. Sorting by district and drug type, various trends shows up, but the major downtrend seems to occur after 2009. One important thing to keep in mind however, is that the data does not necessarily explain the reason behind these trends. For instance, we can see that Base/Rock Cocaine decreases drastically, but not why that might've happened? A reason could be that the supply had simply dwindled, meaning there would be less users to arrest. This would, however, contradict the general trend overall in the US, as per this article (2), which shows an overall increase in drug-related deaths. <br><br>
                 An alternative explanation could also be that less arrests are made, for various reasons. As per this article (1), a new police chief was appointed in 2011 for San Francisco. This change brought about both a downsizing of the previous narcotics department, and a prioritization of drug user treatment coupled with leniency on arrests. Although this change was in 2011, another article (3) points towards a general change in how to approach drug-related issues. Article (3) speeks about an overall change in mentality in order to destigmatize addiction, by arguing for how "body-autonomy" should apply for all people including drug-users. 
             </p>
-    </div>d
+    </div>
   </div>
   <div class='row'>
     <div class='column'>

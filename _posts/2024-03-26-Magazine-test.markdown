@@ -74,7 +74,7 @@ categories: jekyll update
                 <br><br>
                 An alternative explanation could also be that less arrests are made, for various reasons. As per this article (1), a new police chief was appointed in 2011 for San Francisco. This change brought about both a downsizing of the previous narcotics department, and a prioritization of drug user treatment coupled with leniency on arrests. Although this change was in 2011, another article (3) also points towards a general change in how to approach drug-related issues. Article (3) speeks about an overall change in mentality in order to destigmatize addiction, by arguing for how "body-autonomy" should apply for all people including drug-users.
                 <br>
-                This shift in both cultural mindset as well as the general drug policies could both have made a contribution to the decreasing numbers reflected in our dataset. Since this could've meant a decline in possession arrests for the drugs that were the most dominant in the dataset, it could likely have resulted in a noticable impact on the 2009 decline.
+                This shift in both cultural mindset and drug policies could both have contriuted to the before mentioned decrease, since it could've meant a decline in possession arrests for certain drug types, or that it was replaced with alternatives such as treatment options or possibly even no action at all as per the described "Pro-Drug Culture". Even though some of the official changes in policy were publized after the 2009 decline,  the culturural mindset change could perhaps have started even before 2009, permeating the public opinion, leading to a unofficial leniency on drug related crimes
             </p>
     </div>
   </div>

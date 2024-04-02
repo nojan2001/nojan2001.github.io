@@ -61,6 +61,12 @@ categories: jekyll update
                 <iframe src="/Bokeh_plot.html" width="100%" height="400px"></iframe>
                 <figcaption>Figure 3: Yearly development of drug-related crimes. y axis for each year depicts the sum of crimes, categorized by the specific drug in the arrest description. Click on the drug labels to add/remove data from plot </figcaption>
             </figure>
+            <h2>Reasons behind changes</h2>
+            <p>
+                At a first glance, the data shows a general downtrend of drug-related crime arrests. Sorting by district and drug type, various trends shows up, but the major downtrend seems to occur after 2009. One important thing to keep in mind however, is that the data does not necessarily explain the reason behind these trends. We see that "Crack" cocaine falls drasticly, but why is this? It could be that the supply has simply dwindled, and that there are therefore less users to arrest. This would contradict the general trend over all in USA, as per this article (LINK HERE), which shows a uptrend in drug-related deaths. <br><br>
+
+                An alternative explanation could simply be that less arrests are made, for various reasons. As per this article (https://www.sfexaminer.com/news/san-francisco-drug-arrests-tumble-as-police-focus-on-serious-and-violent-crime/article_770e3b20-d694-59c4-a95d-6c3656906c40.html), a new police chief was appointed in 2011. This change brought about both a downsizing of the previous narcotics department, and a prioritization of drug user treatment coupled with leniency on arrests. Although this change was in 2011, another article points at a general "relaxed" approach in san francisco towards drug-related crimes (LINK HERE). 
+            </p>            
         </div>
     </div>
 </body>

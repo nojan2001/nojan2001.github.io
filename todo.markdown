@@ -13,9 +13,5 @@ Text:
         2015:
             All major drugs, except meth, seems to fall here. Cocaine is especially plummeting. 
 
-HTML:
-    Set figures and colums correctly up
-
-
 End:
     proof read text, make sure all assignment requirements are fulfilled

@@ -55,8 +55,8 @@ categories: jekyll update
                 The years 2009-2011 and around 2015 seem to be worth looking at in further detail.
             </p>
             <figure>
-                <iframe src="/choropleth-map.html" width="100%" height="400px"></iframe>
-                <figcaption>Figure 2: Yearly development of drug-related crimes, by district. Hover over areas for detail
+                <iframe src="/choropleth-map.html" width="100%" height="450px"></iframe>
+                <figcaption>Figure 2: Yearly development of drug-related crimes, by district. Hover over areas for detail. Percent Difference is the difference in percent for each year compared to the value in 2009.
                 </figcaption>
             </figure>
       <h2>Development of drug crimes by drug</h2>
@@ -66,15 +66,15 @@ categories: jekyll update
                 The 5 drugs mentioned beforehand all experience some sort of drop around 2015, except Heroin, which would explain the other decreases seen in figure 2. Cocaine is especially affected, as it plummets to near 0. 
             </p>
             <figure>
-                <iframe src="/Bokeh_plot.html" width="100%" height="400px"></iframe>
-                <figcaption>Figure 3: Yearly development of drug-related crimes. y axis for each year depicts the sum of crimes, categorized by the specific drug in the arrest description. Click on the drug labels to add/remove data from plot </figcaption>
+                <iframe src="/Bokeh fixed.html" width="100%" height="500px"></iframe>
+                <figcaption>Figure 3: Yearly development of drug-related crimes, divided by drug type. y axis for each year depicts the sum of crimes for the specific drug in the arrest description, from category 'POSSESSION', 'SALE', 'TRANSPORTATION'. Click on the drug labels to add/remove drug data from plot </figcaption>
             </figure>
             <h2>Reasons behind changes</h2>
             <p>
                 At a first glance, the data shows a general downtrend of drug-related crime arrests. Sorting by district and drug type, various trends shows up, but the major downtrend seems to occur after 2009. One important thing to keep in mind however, is that the data does not necessarily explain the reason behind these trends. For instance, we can see that "Crack" Cocaine decreases drastically, but not why that might've happened? A reason could be that the supply had simply dwindled, meaning there would be less users to arrest. This would, however, contradict the general trend overall in the US, as per this article (2), which shows an overall increase in drug-related deaths. <br><br>
                 An alternative explanation could also be that less arrests are made, for various reasons. As per this article (1), a new police chief was appointed in 2011. This change brought about both a downsizing of the previous narcotics department, and a prioritization of drug user treatment coupled with leniency on arrests. Although this change was in 2011, another article points towards a general change in how to approach drug-related issues. This article (3) speeks about an overall change in mentality in order to destigmatize addiction, by arguing for how "body-autonomy" should apply for all people including drug-users. 
             </p>
-    </div>
+    </div>d
   </div>
   <div class='row'>
     <div class='column'>

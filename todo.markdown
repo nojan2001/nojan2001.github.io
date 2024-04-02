@@ -1,6 +1,8 @@
 Figures:
-    Make sure they meet the requirements.
-    Make sure they are "pretty", and the text is correct and descriptive (Value is writted on y axis for fig 1 for example)
+    Correct the 'Value' text in Plot 2
+    Change the y-label in Plot 3 to something like 'Occurrence for each drug type'
+    If possible, correct the offset value in Plot 3
+    Maybe look into using a different color palette
 
 Text:
     Finish text.

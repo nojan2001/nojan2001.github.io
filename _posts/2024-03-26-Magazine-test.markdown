@@ -25,7 +25,7 @@ categories: jekyll update
         <div class="column">
             <h2>Introduction</h2>
             <p>
-                In San Francisco, it is evident from the crime data, that drug related crimes was a consistent problem throughout the early 2000's. This notion does seem to follow the overwhelming trend of drug related problems, that pertains to the whole country. However, what made this particular category of crimes in San Francisco interesting, was the sudden drop around 2009/2010. When conducting a bit of research, this drop appears even more peculiar, as it seems San Francisco is having a growing and evermore critical problem related to drug-use (especially when considering the introduction of Fentonyl in recent years). 
+                In San Francisco, it is evident from the crime data, that drug related crimes was a consistent problem throughout the early 2000's. This notion does seem to follow the overwhelming trend of drug related problems, that pertains to the whole country. However, what made this particular category of crimes in San Francisco interesting, was the sudden drop around 2009/2010. When conducting a bit of research, this drop appears even more peculiar, when considering the fact that the US did have a growing drug crisis in terms of an epidemic in drug overdose. 
                 Therefore, we set on to investigate what might have caused this sudden drop in drug related crimes, by both investigating the different types of arrests made within this umbrella category, as well as looking at the locations of the different hot-spots through the years, but in particular around 2009 and 2010.
             </p>
             <h3>The yearly development of drug-related crimes</h3>

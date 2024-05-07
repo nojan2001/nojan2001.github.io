@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Welcome to Jekyll Test!"
+date:   2024-03-11 15:27:14 +0100
+categories: jekyll update
+custom_css: styles
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% if page.custom_css %}
+    {% for stylesheet in page.custom_css %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ stylesheet }}.css">
+    {% endfor %}
+  {% endif %}
+
+<title>Test File</title>
+</head>
+<body>
+<h2>Testing Styles Sheet</h2>
+</body>

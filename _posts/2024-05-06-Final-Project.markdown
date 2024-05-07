@@ -3,11 +3,17 @@ layout: post
 title:  "How the Covid-19 pandemic impacted Chicago's issue with crimes of domestic violence"
 date:   2024-03-26 23:50:39 +0100
 categories: jekyll update
+custom_css: styles
 ---
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<link rel="stylesheet", href="styles.css">
+  {% if page.custom_css %}
+    {% for stylesheet in page.custom_css %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ stylesheet }}.css">
+    {% endfor %}
+  {% endif %}
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
@@ -53,7 +59,7 @@ categories: jekyll update
             </p>
             <h2>The history of domestic violence related crimes in Chicago</h2>
             <figure>
-                <iframe src="final_project\DV_Crimes_Yearly.html" width="100%" height="400px"></iframe>
+                <iframe src="\final_project\introduction-dv-plot.html" width="100%" height="450px"></iframe>
                 <figcaption>Figure 1: The yearly development of reported crimes regarded as domestic violence offences in Chicago</figcaption>
             </figure>
             <h2>The 2020 positive deviation</h2>

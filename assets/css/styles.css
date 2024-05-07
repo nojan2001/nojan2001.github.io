@@ -1,12 +1,17 @@
+header {
+  width: 100%;
+}
+header > * {
+  vertical-align: bottom;
+}
+
 h2 {
     color: black;
-    font-weight: bold;
 }
 
 div.ex1 {
-    width: auto;
+    width: 100%;
     margin: auto;
-    overflow: auto;
   }
 
 div.facts {
@@ -21,8 +26,8 @@ div.facts {
     text-align: justify;
   }
 
-
   blockquote {
     border-left: none;
     color: black;
   }
+

@@ -1,11 +1,10 @@
 ---
-layout: post
+layout: custom_post
 title:  "How the Covid-19 pandemic impacted Chicago's issue with crimes of domestic violence"
 date:   2024-03-26 23:50:39 +0100
 categories: jekyll update
 custom_css: styles
 ---
-
 <head>
   {% if page.custom_css %}
     {% for stylesheet in page.custom_css %}
@@ -17,7 +16,6 @@ custom_css: styles
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<img src='\final_project\chicago-city.jpg'>
 <div class='ex1'>
             <h2>Introduction</h2>
             <p>
@@ -50,10 +48,6 @@ custom_css: styles
                 <figcaption>Figure 1: The yearly development of reported crimes regarded as domestic violence offences in Chicago</figcaption>
             </figure>
             <h2>Comparing the sides monthly</h2>
-            <figure>
-                <iframe src="\final_project\introduction-dv-plot.html" width="100%" height="450px"></iframe>
-                <figcaption>Figure 1: The yearly development of reported crimes regarded as domestic violence offences in Chicago</figcaption>
-            </figure>
                <p>
                 Investigating figure (prior)'s data, but by the sides of chicago, reveals further insight.
 

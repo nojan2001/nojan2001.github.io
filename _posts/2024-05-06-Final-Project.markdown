@@ -48,6 +48,10 @@ custom_css: styles
                 <figcaption>Figure 1: The yearly development of reported crimes regarded as domestic violence offences in Chicago</figcaption>
             </figure>
             <h2>Comparing the sides monthly</h2>
+            <figure>
+                <iframe src="\final_project\choropleth.html" width="100%" height="450px"></iframe>
+                <figcaption>Figure 1: The yearly development of reported crimes regarded as domestic violence offences in Chicago</figcaption>
+            </figure>
                <p>
                 Investigating figure (prior)'s data, but by the sides of chicago, reveals further insight.
 

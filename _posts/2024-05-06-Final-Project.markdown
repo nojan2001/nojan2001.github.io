@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A deeper look at San Francisco's drug problem"
+title:  "How the Covid-19 pandemic impacted Chicago's issue with crimes of domestic violence"
 date:   2024-03-26 23:50:39 +0100
 categories: jekyll update
 ---
@@ -45,10 +45,8 @@ categories: jekyll update
             <h4>What is the meaning of a "stay-at-home" order in Illinois?</h4>
             <p>
                 These types of orders have different meanings across different states in the U.S. Specifically in Illinois, it is defined as such:
-            <br>
-                <blockquote cite="https://www.illinois.gov/government/executive-orders/executive-order.executive-order-number-10.2020.html">
-                    STAY AT HOME — All individuals must stay at home, with exceptions for essential activities, essential government functions, and essential businesses and operations. All non-essential business and operations must cease, aside from Minimum Basic Operations. Business can continue with employees working from home. Local government units across the state must halt all evictions, and gatherings of more than 10 people are prohibited.
-                </blockquote>
+            <br><br>
+                STAY AT HOME — All individuals must stay at home, with exceptions for essential activities, essential government functions, and essential businesses and operations. All non-essential business and operations must cease, aside from Minimum Basic Operations. Business can continue with employees working from home. Local government units across the state must halt all evictions, and gatherings of more than 10 people are prohibited. (source: https://www.illinois.gov/government/executive-orders/executive-order.executive-order-number-10.2020.html)
             </p>
             <h2>The history of domestic violence related crimes in Chicago</h2>
             <p>

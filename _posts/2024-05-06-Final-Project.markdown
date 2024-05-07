@@ -1,11 +1,10 @@
 ---
-layout: post
+layout: custom_post
 title:  "How the Covid-19 pandemic impacted Chicago's issue with crimes of domestic violence"
 date:   2024-03-26 23:50:39 +0100
 categories: jekyll update
 custom_css: styles
 ---
-
 <head>
   {% if page.custom_css %}
     {% for stylesheet in page.custom_css %}
@@ -17,7 +16,6 @@ custom_css: styles
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<img src='\final_project\chicago-city.jpg'>
 <div class='ex1'>
             <h2>Introduction</h2>
             <p>

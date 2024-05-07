@@ -61,13 +61,19 @@ custom_css: styles
                 <iframe src="\final_project\dv-monthly-plot.html" width="100%" height="450px"></iframe>
                 <figcaption>Figure 3: The monthly development of reported crimes regarded as domestic violence offences in Chicago from 2019 to 2020</figcaption>
             </figure>
+            <p>
+                When considering these patterns of the development of reports on domestic violence, there could be an indication of some kind of correlation to the implementation of the stay-at-home order that went into effect on March 21st (9). However, this continuous decreasing trend that can be observed in figure 3, is a clear contrast to the experiences for those working at e.g. the Illinois Domestic Violence Hotline. The hotline experienced a stark 16% increase in calls for help from 2019 to 2020, along with an increase in texts received, which in 2019 laid at only 37 when comparing it to the total of 936 texts that the hotline received in 2020 only (10).
+                <br>
+                <br>
+                Therefore, some other factors must have had an effect on this outcome that started with the issuing of a stay-at-home order. To this end, it made sense to look at the potential area-wise differences, to understand whether there might've been a disproportionate distribution of the domestic violence related crime rate.
+            </p>
             <h2>The monthly difference between the areas of Chicago</h2>
             <figure>
                 <iframe src="\final_project\Choropleth.html" width="100%" height="450px"></iframe>
                 <figcaption>Figure 4: Monthly development of Domestic abuse crimes, by Sides in Chicago. Hover over areas for detail. Each month in 2020 is compared percent difference wise to the same month in 2019, per the relevant Side. </figcaption>
             </figure>
                <p>
-                Figure 5 shows the monthly data from January to December in 2020, divided between the Sides of Chicago (8), with a look at comparing it to the same timeperiod in 2019.
+                Figure 4 shows the monthly data from January to December in 2020, divided between the Sides of Chicago (8), with a look at comparing it to the same timeperiod in 2019.
                 <br>
                 Generally, there does not seem to be a large deviation from January to March, although there are some small jumps in the Domestic abuse counts. 
                 All of the Sides end up having a slight decline in March of 2020 comparatively; The only exception here is the Central side, which ends with a slight increase.
@@ -116,6 +122,12 @@ custom_css: styles
         <br>
         <br>
         (8) <cite> https://commons.wikimedia.org/wiki/File:Chicago_community_areas_map.svg#/media/File:Chicago_community_areas_map.svg </cite>
+        <br>
+        <br>
+        (9) <cite> https://medium.com/gdgf/timeline-how-covid-19-unfolded-in-illinois-fc8d124ae033 </cite>
+        <br>
+        <br>
+        (10) <cite> https://abc7chicago.com/domestic-violence-covid-statistics-2020-coronavirus/10381318/ </cite>
         
     </p>
   </div>

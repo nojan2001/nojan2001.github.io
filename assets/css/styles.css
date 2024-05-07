@@ -1,4 +1,26 @@
 h2 {
-    color: plum;
+    color: black;
     font-weight: bold;
 }
+
+div.ex1 {
+    width: 800px;
+    margin: auto;
+  }
+
+  div.facts {
+    width: auto;
+    background-color: lightgray;
+    border: 3px solid grey;
+
+    margin: 5px;
+    padding: 5px;
+    height: 250px;
+    overflow: auto;
+    text-align: justify;
+  }
+
+  blockquote {
+    border-left: none;
+    color: black;
+  }

@@ -93,7 +93,11 @@ custom_css: styles
                 The only exceptions here is  South side, which ends at a near 0% difference, and the Central side and North Side, which deviate rather largely negatively and positively, respectively.
                 <br><br>
                 It seems that April through June is the timeperiod with the most pattern like deviation, with the Domestic Abuse counts of some Sides changing different than others.
-    </p>
+            </p>
+            <h2>Summary</h2>
+            <p>
+                With the lockdown initiated in March of 2020 due to the rapid spread of Covid-19, there was also a growing concern for particularly vulnerable households, and how they would respond to an imposed stay-at-home order. It would at first glance appear to have had an overall positive impact on Chicago's domestic violence issue. However, by diving deeper into specifically the different areas of Chicago, it was found that the most rapid declines not only happened in the timeperiod April to June, it was also primarily occuring in the southern areas. The most drastic drop in domestic violence number generally occurred during the ... help?
+            </p>
 </div>
 
 <div>

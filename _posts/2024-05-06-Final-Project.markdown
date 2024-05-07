@@ -56,7 +56,7 @@ custom_css: styles
             </p>
             <h2>Comparing the Chicago Sides monthly</h2>
             <figure>
-                <iframe src="\final_project\choropleth.html" width="100%" height="450px"></iframe>
+                <iframe src="\final_project\Choropleth.html" width="100%" height="450px"></iframe>
                 <figcaption>Figure x: Monthly development of Domestic abuse crimes, by Sides in Chicago. Hover over areas for detail. Each month in 2020 is compared percent difference wise to the same month in 2019, per the relevant Side. </figcaption>
             </figure>
                <p>

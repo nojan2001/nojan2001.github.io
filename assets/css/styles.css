@@ -4,11 +4,12 @@ h2 {
 }
 
 div.ex1 {
-    width: 800px;
+    width: auto;
     margin: auto;
+    overflow: auto;
   }
 
-  div.facts {
+div.facts {
     width: auto;
     background-color: lightgray;
     border: 3px solid grey;
@@ -19,6 +20,7 @@ div.ex1 {
     overflow: auto;
     text-align: justify;
   }
+
 
   blockquote {
     border-left: none;

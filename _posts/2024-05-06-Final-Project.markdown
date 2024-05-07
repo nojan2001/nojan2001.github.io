@@ -47,37 +47,34 @@ custom_css: styles
                 <iframe src="\final_project\introduction-dv-plot.html" width="100%" height="450px"></iframe>
                 <figcaption>Figure 1: The yearly development of reported crimes regarded as domestic violence offences in Chicago</figcaption>
             </figure>
-            <h2>Comparing the sides monthly</h2>
+            <h2>Comparing the Chicago sides monthly</h2>
             <figure>
                 <iframe src="\final_project\choropleth.html" width="100%" height="450px"></iframe>
-                <figcaption>Figure 1: The yearly development of reported crimes regarded as domestic violence offences in Chicago</figcaption>
+                <figcaption>Figure x: Monthly development of Domestic abuse crimes, by Sides in Chicago. Hover over areas for detail. Each month in 2020 is compared percent difference wise to the same month in 2019, per the relevant Side. </figcaption>
             </figure>
                <p>
-                Investigating figure (prior)'s data, but by the sides of chicago, reveals further insight.
+Figure (x) shows the monthly data from January to December in 2020, divided between the Sides of Chicago (SOURCE:https://commons.wikimedia.org/wiki/File:Chicago_community_areas_map.svg#/media/File:Chicago_community_areas_map.svg ), with a look at comparing it to the same timeperiod in 2019.
+<br>
+Generally, there does not seem to be a large deviation from January to March, although there are some small jumps in the Domestic abuse counts. 
+All of the Sides end up having a slight decline in March of 2020 comparatively; The only exception here is the Central side, which ends with a slight increase.
+<br><br>
+From April to June however, 3 trends seem to be observed in the data.
+The first trend can be exemplified by observing the south-grouped sides, which reveals a initial significant jump in comparative decline for the month of April 2020.
+The decline is slightly lessened by May, and then largely tapered off by June.
+The only exception is Far Southwest side, which starts off with a rather large decline of -0.40 % in April comparatively, but falls down just as quickly the next month, ending in June 2020 with an tapered off decline of -0.25%.
+The general south-grouped trend seems to hold true for West Side and Far Noth Side as well. 
+<br>
+The second trend is seen in the North Side and Northwest Side; Almost no decline is observed in April 2020, then a sudden sharp decline in May, which already wears off in June, bringing them largely back to baseline.
+<br>
+The final third trend hold true for the Central Side only, which has an initial significant decline at -0.32% in April 2020, declining steadily by an additional -0.10% in May, and again in June.
+This is the only side which ends June 2020 with an significant difference comparatively to 2019.
+<br><br>
+The data from July to December 2020 for the Sides is observed to contain much more variance than before, with no immediate pattern emerging. Some of the Sides, such as Southwest side, deviate significantly for a single monthly period, before returning to baseline the following month(s).The sides generally end December with a decline between -0.10% and -0.30%.
+The only exceptions here is  South side, which ends at a near 0% difference, and the Central side and North Side, which deviate rather largely negatively and positively, respectively.
+ <br><br>
 
-                Generally, there does not seem to be a large deviation from january to march in 2020, when comparing the frequencies and percent difference of domestic abuse to the same month and side in 2019.
-                Some sides, such as Southwest side and West side, start january 2020 off by having nearly the same frequency as in 2019. 
-                Others, such as North side and Northwest side, have a larger january deviation comparatively, at a near +- 0.20 %.
-                All of them in general end up having a slight decline in March 2020; The only exception here is the Central side, which ends with a slight increase.
-                All the sides are observed to have some variation from month to month in this period, which makes it hard to discern whether there is any pattern to the differences.
+It seems that April through June is the timeperiod with the most pattern like deviation, with the Domestic Abuse counts of some Sides changing different than others.
 
-
-                3 trends seem to be observed in the data, when comparing the frequencies for the sides from April to June, between the 2 years.
-                The first trend can be exemplified by observing the south-grouped sides, which reveals a initial significant jump in decline for the month of April 2020;
-                However, the decline seems to be sustained or slightly lessened by May, and then largely tapered off by June, as these areas end up with near- or slightly worse frequency compared to April of 2019.
-                The only exception is Far Southwest side, which starts off with a rather large decline of -0.40 % in April comparatively, but falls down just as quickly the next month, ending in June 2020 with an tapered off decline of -0.25%.
-                The general south-grouped trend seems to hold true for West Side and Far Noth Side as well. 
-
-                The second trend is seen in the North Side and Northwest Side; Almost no decline is observed in April 2020, then a sudden jump in decline in May, which already wears off in June, bringing them largely back to their april baseline.
-
-                The final third trend hold true for the Central Side only, which has an initial significant decline at -0.32% in April 2020, declining steadily by an additional -0.10% in May, and again in June.
-                This is the only side which ends June 2020 with an significant difference comparatively to 2019.
-
-                The data from July to December 2020 for the Sides is observed to contain much more variance than before, with no immediate pattern emerging.
-                As an example, the frequence of the Central side returns to near the same number for June 2020, as in 2019. From that point on, ontowards December, the frequencies vary but are largely sustaned comparetively to 2019, until a smaller jump in decline in December.
-                Other sides seem to also behave "erraticly", such as the Southwest side, which largely sustains a frequency close to baseline initially, suddenly deviates significantly in September, and then goes back to baseline the following months.
-                The sides generally end with a decline between -0.10% and -0.30%.
-                The only exceptions here are South side, which ends at a near 0% difference, and the Central side and North Side, which deviate rather largely negatively and positively, respectively. 
 </p>
             <h2>The 2020 positive deviation</h2>
 </div>

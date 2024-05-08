@@ -1,6 +1,6 @@
 ---
 layout: custom_post
-title:  "Did Covid-19 have an impact on Chicago's issue with crimes of domestic violence"
+title:  "Did Covid-19 have an impact on Chicago's issue with crimes of domestic violence?"
 date:   2024-03-26 23:50:39 +0100
 categories: jekyll update
 custom_css: styles

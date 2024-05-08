@@ -17,6 +17,7 @@ custom_css: styles
 </head>
 <body>
 <div class='ex1'>
+            <a href="https://github.com/nojan2001/nojan2001.github.io/blob/main/final_project/final_notebook%20FINAL.ipynb">Link to GITHUB notebook </a> 
             <h2>Introduction</h2>
             <p>
                 In late March of 2020, a significant shift was made to the everyday lives of people across the world. The spread of Covid-19 was in it's early stages, but still spreading at a rapid rate. Many countries decided to implement a series of actions in order to prevent any further infection, and one of the most widely used preventative actions was that of isolation. This was because of the nature of how the virus was able to spread from person to person. Therefore, states were issuing different social distancing actions, also known as stay-at-home orders. This meant that governments required all individuals to stay at home, with the exception of essential activities, essential government functions and essential businesses and operations, meaning that all non-essential business and operations must cease (1).
@@ -44,21 +45,21 @@ custom_css: styles
         </div>
             <h2>The development of domestic violence in Chicago</h2>
             <figure>
-                <iframe src="\final_project\introduction-dv-plot.html" width="100%" height="450px"></iframe>
+                <iframe src="\final_project\introduction-dv-plot.html" width="200%" height="450px"></iframe>
                 <figcaption>Figure 1: The yearly development of reported crimes regarded as domestic violence offences in Chicago</figcaption>
             </figure>
             <p>
                 As can be seen in figure 1, the year with the highest number of registered domestic violence cases was in 2013, after which it experienced a decrease, only to remain relatively stable until the shift from 2019 to 2020. During this timeperiod, a pretty noticable drop occured, of nearly 4000 less domestic violence cases in 2020 compared to the previous year. That level furthermore pertained the following years. While this decrease in 2020 showed to directly oppose the initial worries of an increase in domestic violence due to the stay-at-home order, the numbers don't appear to return to their pre-pandemic level. Therefore, it was worth to investigate further, to see whether this change could in fact be connected to the Covid-19 outbreak.
             </p>
             <figure>
-                <iframe src="\final_project\dv-quarter-plot.html" width="100%" height="450px"></iframe>
+                <iframe src="\final_project\dv-quarter-plot.html" width="200%" height="450px"></iframe>
                 <figcaption>Figure 2: The quarterly development of reported crimes regarded as domestic violence offences in Chicago</figcaption>
             </figure>
             <p>
                 From figure 2, it is evident that the general trend showed an overall increase from Q1 to Q2. The degree to how much it would increase does vary depending on the year. However, the only year where this trend is broken, and we instead see a very small decrease, is in 2020 from the first to the second quarters. The years both before and after 2020 follow the general trend of seeing an increase in domestic violence crimes between those two quarters. One can also identify that figure 1 showed only a decrease in domestic violence reports from 2020 and in the years that followed. While in figure 2, it appears as though the distribution of reportings was not similar during the whole timeframe. This is furtheron visible in figure 3, which actually shows that the drop in reportings is primarily centered around the first two months of the second quarter (i.e. April and May). One could argue that the decrease begins already during March, but the main thing to note from the 2019 and 2020 comparison, is that after the sudden drop around April, the number of domestic violence cases never reach back to its prior level. 
             </p>
             <figure>
-                <iframe src="\final_project\dv-monthly-plot.html" width="100%" height="450px"></iframe>
+                <iframe src="\final_project\dv-monthly-plot.html" width="200%" height="450px"></iframe>
                 <figcaption>Figure 3: The monthly development of reported crimes regarded as domestic violence offences in Chicago from 2019 to 2020</figcaption>
             </figure>
             <p>
@@ -67,9 +68,9 @@ custom_css: styles
                 <br>
                 Therefore, some other factors must have had an effect on this outcome that started with the issuing of a stay-at-home order. To this end, it made sense to look at the potential area-wise differences, to understand whether there might've been a disproportionate distribution of the domestic violence related crime rate.
             </p>
-            <h2>The monthly difference between the areas of Chicago</h2>
+            <h2>The monthly difference between the Sides of Chicago</h2>
             <figure>
-                <iframe src="\final_project\Choropleth.html" width="100%" height="450px"></iframe>
+                <iframe src="\final_project\Choropleth.html" width="200%" height="450px"></iframe>
                 <figcaption>Figure 4: Monthly development of Domestic abuse crimes, by Sides in Chicago. Hover over areas for detail. Each month in 2020 is compared percent difference wise to the same month in 2019, per the relevant Side. </figcaption>
             </figure>
                <p>
@@ -96,7 +97,13 @@ custom_css: styles
             </p>
             <h2>Summary</h2>
             <p>
-                With the lockdown initiated in March of 2020 due to the rapid spread of Covid-19, there was also a growing concern for particularly vulnerable households, and how they would respond to an imposed stay-at-home order. It would at first glance appear to have had an overall positive impact on Chicago's domestic violence issue. However, by diving deeper into specifically the different areas of Chicago, it was found that the most rapid declines not only happened in the timeperiod April to June, it was also primarily occuring in the southern areas. The most drastic drop in domestic violence number generally occurred during the ... help?
+                With the lockdown initiated in March of 2020 due to the rapid spread of Covid-19, there was also a growing concern for particularly vulnerable households, and how they would respond to an imposed stay-at-home order (2). 
+From our findings, it appears that there is a decline in reported crimes during the initial stages of the pandemic, which can be traced more specificly to the period of April to June of 2020, that seems to line up with the date of the stay-at-home order being issued (cite). Therefore, it seems as though Covid-19 to some extent could have had an impact on domestic abuse/violence.
+<br><br>
+One might be inclined to believe, that Covid-19 had a possitive effect on Chicago's domestic abuse issue. However, an alternative explanation for our findings, is that the decline was simply due to under-reporting and/or resources for victims being lessened immediately in the wake of Covid-19. This article (11) support the claims of scarce resources and fear of reporting their abuser due to lack of privacy. 
+It was in fact estimated that 25% of the total resources available, became unavailable as a consequence of the Covid-19 restrictions, with the majority of this reduction seen in the South-side of Chicago.
+<br><br>
+This relates to other sources saying that some areas seem to be impacted more severily by Covid-19, in relation to Domestic abuse. This study (12) explored that idea, revealing findings that link a more significant decline in areas of predominantly black communities, mostly the South sides of Chicago. While Figure 4 depicted some significant decline in the South Sides, atleast initially, it is hard to discern whether Figure 4 has enough support to come to the same conclusion unassisted. The difference in significance, when comparing their data to ours, can be due to various factors; Perhaps they had access to more data, or looked into additional crime categories that also relates to Domestic Abuse. 
             </p>
 </div>
 
@@ -132,7 +139,12 @@ custom_css: styles
         <br>
         <br>
         (10) <cite> https://abc7chicago.com/domestic-violence-covid-statistics-2020-coronavirus/10381318/ </cite>
-        
+        <br>
+        <br>
+        (11) <cite>  https://www.verywellhealth.com/domestic-violence-reports-5200838 </cite>
+        <br>
+        <br>
+        (12) <cite>  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8414190/ </cite>
     </p>
   </div>
 </div>

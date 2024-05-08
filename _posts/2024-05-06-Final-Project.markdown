@@ -1,6 +1,6 @@
 ---
 layout: custom_post
-title:  "How the Covid-19 pandemic impacted Chicago's issue with crimes of domestic violence"
+title:  "Did Covid-19 have an impact on Chicago's issue with crimes of domestic violence"
 date:   2024-03-26 23:50:39 +0100
 categories: jekyll update
 custom_css: styles
@@ -71,12 +71,12 @@ custom_css: styles
             <h2>The monthly difference between the Sides of Chicago</h2>
             <figure>
                 <iframe src="\final_project\Choropleth.html" width="200%" height="450px"></iframe>
-                <figcaption>Figure 4: Monthly development of Domestic abuse crimes, by Sides in Chicago. Hover over areas for detail. Each month in 2020 is compared percent difference wise to the same month in 2019, per the relevant Side. </figcaption>
+                <figcaption>Figure 4: Monthly development of Domestic violence crimes, by Sides in Chicago. Hover over areas for detail. Each month in 2020 is compared percent difference wise to the same month in 2019, per the relevant Side. </figcaption>
             </figure>
                <p>
                 Figure 4 shows the monthly data from January to December in 2020, divided between the Sides of Chicago (8), with a look at comparing it to the same timeperiod in 2019.
                 <br>
-                Generally, there does not seem to be a large deviation from January to March, although there are some small jumps in the Domestic abuse counts. 
+                Generally, there does not seem to be a large deviation from January to March, although there are some small jumps in the Domestic violence counts. 
                 All of the Sides end up having a slight decline in March of 2020 comparatively; The only exception here is the Central side, which ends with a slight increase.
                 <br><br>
                 From April to June however, 3 trends seem to be observed in the data.
@@ -93,17 +93,17 @@ custom_css: styles
                 The data from July to December 2020 for the Sides is observed to contain much more variance than before, with no immediate pattern emerging. Some of the Sides, such as Southwest side, deviate significantly for a single monthly period, before returning to baseline the following month(s).The sides generally end December with a decline between -0.10% and -0.30%.
                 The only exceptions here is  South side, which ends at a near 0% difference, and the Central side and North Side, which deviate rather largely negatively and positively, respectively.
                 <br><br>
-                It seems that April through June is the timeperiod with the most pattern like deviation, with the Domestic Abuse counts of some Sides changing different than others.
+                It seems that April through June is the timeperiod with the most pattern like deviation, with the Domestic violence counts of some Sides changing different than others.
             </p>
             <h2>Summary</h2>
             <p>
                 With the lockdown initiated in March of 2020 due to the rapid spread of Covid-19, there was also a growing concern for particularly vulnerable households, and how they would respond to an imposed stay-at-home order (2). 
 From our findings, it appears that there is a decline in reported crimes during the initial stages of the pandemic, which can be traced more specificly to the period of April to June of 2020, that seems to line up with the date of the stay-at-home order being issued (cite). Therefore, it seems as though Covid-19 to some extent could have had an impact on domestic abuse/violence.
 <br><br>
-One might be inclined to believe, that Covid-19 had a possitive effect on Chicago's domestic abuse issue. However, an alternative explanation for our findings, is that the decline was simply due to under-reporting and/or resources for victims being lessened immediately in the wake of Covid-19. This article (11) support the claims of scarce resources and fear of reporting their abuser due to lack of privacy. 
+One might be inclined to believe, that Covid-19 had a possitive effect on Chicago's domestic violence issue. However, an alternative explanation for our findings, is that the decline was simply due to under-reporting and/or resources for victims being lessened immediately in the wake of Covid-19. This article (11) support the claims of scarce resources and fear of reporting their abuser due to lack of privacy. 
 It was in fact estimated that 25% of the total resources available, became unavailable as a consequence of the Covid-19 restrictions, with the majority of this reduction seen in the South-side of Chicago.
 <br><br>
-This relates to other sources saying that some areas seem to be impacted more severily by Covid-19, in relation to Domestic abuse. This study (12) explored that idea, revealing findings that link a more significant decline in areas of predominantly black communities, mostly the South sides of Chicago. While Figure 4 depicted some significant decline in the South Sides, atleast initially, it is hard to discern whether Figure 4 has enough support to come to the same conclusion unassisted. The difference in significance, when comparing their data to ours, can be due to various factors; Perhaps they had access to more data, or looked into additional crime categories that also relates to Domestic Abuse. 
+This relates to other sources saying that some areas seem to be impacted more severily by Covid-19, in relation to Domestic violence. This study (12) explored that idea, revealing findings that link a more significant decline in areas of predominantly black communities, mostly the South sides of Chicago. While Figure 4 depicted some significant decline in the South Sides, atleast initially, it is hard to discern whether Figure 4 has enough support to come to the same conclusion unassisted. The difference in significance, when comparing their data to ours, can be due to various factors; Perhaps they had access to more data, or looked into additional crime categories that also relates to Domestic violence. 
             </p>
 </div>
 
